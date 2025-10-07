@@ -66,6 +66,7 @@ Once installed, switch to TESTNET in your wallet settings.
 
 Your project will have the following structure:
 
+```
 marketplace/
 ├── src/
 │   ├── components/
@@ -81,6 +82,7 @@ marketplace/
 │   ├── App.css
 │   └── main.jsx
 └── vite.config.js
+```
 
 ## Step 3: Configure Vite (vite.config.js)
 
